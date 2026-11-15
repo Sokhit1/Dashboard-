@@ -1,0 +1,6 @@
+{
+  "name": "Repsort Analytics — NetVision",
+  "description": "Enterprise Network Monitoring and Analytics Dashboard with real-time synthetic telemetry simulation and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
